@@ -1,0 +1,9 @@
+# This code will print my initials Nicole Morris
+
+print("N    N  M   M")
+print("NN   N  MM MM")
+print("N N  N  M M M")
+print("N  N N  M   M")
+print("N   NN  M   M")
+print("N    N  M   M")
+print("N    N  M   M")
